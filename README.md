@@ -34,3 +34,9 @@ In the forests, on the line, or deep behind uncertain borders — _British Force
 
 **British Forces** is developed by a small, dedicated team with one goal: to deliver the highest-quality unofficial faction for _Arma Reforger_. Our focus is on matching the visual and gameplay standards of vanilla content while introducing fresh mechanics  that offer a new perspective on the base game.
 
+
+### Team and Contributors
+See [Contributors & Licensed Content](https://github.com/TepacheLoco/Arma-Reforger-British-Forces-Public/blob/main/License.md)
+
+### License
+See [License](https://github.com/TepacheLoco/Arma-Reforger-British-Forces-Public/blob/main/Contributors.md)
