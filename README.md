@@ -36,7 +36,7 @@ In the forests, on the line, or deep behind uncertain borders — _British Force
 
 
 ### Team and Contributors
-See [Contributors & Licensed Content](https://github.com/TepacheLoco/Arma-Reforger-British-Forces-Public/blob/main/License.md)
+See [Contributors & Licensed Content](https://github.com/TepacheLoco/Arma-Reforger-British-Forces-Public/blob/main/Contributors.md) 
 
 ### License
-See [License](https://github.com/TepacheLoco/Arma-Reforger-British-Forces-Public/blob/main/Contributors.md)
+See [License](https://github.com/TepacheLoco/Arma-Reforger-British-Forces-Public/blob/main/License.md)
