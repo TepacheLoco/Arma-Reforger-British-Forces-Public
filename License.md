@@ -1,4 +1,4 @@
-### **Additional Use Restrictions**
+# Licensing
 
 The **British Forces** mod for _Arma Reforger_ is distributed under the [Arma Public License - No Derivatives (APL-ND)](https://www.bohemia.net/community/licenses/arma-public-license-nd). In addition to the terms outlined in that license, the development team imposes the following **explicit content and usage restrictions**:
 
