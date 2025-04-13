@@ -24,4 +24,4 @@ While this mod is distributed under the APL-ND license, we understand that certa
 
 ---
 
-Our team is committed to responsible historical representation and respectful community engagement. Please use this content with integrity and within the intended spirit of Cold War-era military simulation.
+Our team is committed to responsible historical representation. Please use this content with integrity and within the intended spirit of Cold War-era military simulation.
