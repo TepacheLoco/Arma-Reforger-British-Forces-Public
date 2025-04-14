@@ -10,6 +10,7 @@
 **Whiskey2shots & Phoenix Studios**\
 **sirsmiley**\
 **Rebecca**\
+**bacon**\
 **Lord_Beechey**
 ## Special Thanks
 **Cyborgmatt**\
