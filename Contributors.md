@@ -1,20 +1,11 @@
 # Contributors & Licensed Content
 
 ## Team
-**TepacheLoco**
-**Khaos**
-**Ronnus**
-**1999 Subaru Liberty**
+TepacheLoco, Khaos, Ronnus, 1999 Subaru Liberty
 ## Collaborators
-**Commander Eagle**
-**Whiskey2shots & Phoenix Studios**
-**sirsmiley**
-**Rebecca**
-**Lord_Beechey**
+Commander Eagle, Whiskey2shots & Phoenix Studios, sirsmiley, Rebecca, Lord_Beechey
 ## Special Thanks
-**Cyborgmatt**
-**Da12thMonkey**
-**Reyhard, momopirou and the rest of team at Bohemia**
+Cyborgmatt, Da12thMonkey, Reyhard, momopirou and the rest of team at Bohemia
 ## Licensed Content
 We are grateful to the creators and companies who have generously allowed the use of their assets in accordance with their licensing terms. Assets are generally not used 'as is', often requiring extensive modification and rework, so the list below will not map 1:1 with released content.
 
