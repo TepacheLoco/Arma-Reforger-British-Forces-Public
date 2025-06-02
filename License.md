@@ -4,6 +4,12 @@ The **British Forces** mod for _Arma Reforger_ is distributed under the [Arma Pu
 
 ---
 
+#### **Use in Monetised Servers**
+
+The **British Forces** mod **may not be used** on servers participating in the Arma server monetisation program without written permission from the British Forces team.
+
+---
+
 #### **Prohibited Use in Historical or Political Contexts**
 
 We do **not** condone the use of this mod to simulate, reenact, or reference any military operations or conflicts involving colonial, racial, or politically sensitive violence — regardless of the historical timeframe or narrative framing. This includes any missions, media, or content that could be interpreted as glorifying or trivializing such events.
