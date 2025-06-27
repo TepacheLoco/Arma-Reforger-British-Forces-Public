@@ -1,7 +1,7 @@
 # Contributors & Licensed Content
 
 ## Team and Collaborators
-TepacheLoco, Khaos, Ronnus, 1999 Subaru Liberty
+TepacheLoco, Khaos, Ronnus, 1999 Subaru Liberty \ \
 Commander Eagle, Whiskey2shots & Phoenix Studios, sirsmiley, Rebecca, Lord_Beechey
 ## Special Thanks
 Cyborgmatt, Da12thMonkey, Reyhard, momopirou and the rest of team at Bohemia
