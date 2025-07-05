@@ -22,7 +22,7 @@ The Troubles / Operation Banner (Northern Ireland), The Aden Emergency, The Mala
 
 #### **Enforcement**
 
-Use of **British Forces** content in the contexts listed above is **strictly prohibited without prior, explicit permission** from the development team.
+Use of **British Forces** content in mods that include the contexts listed above is **prohibited without prior, explicit permission** from the development team.
 
 While this mod is distributed under the APL-ND license, we understand that certain projects may benefit from responsible use of our content. If you wish to create missions, scenarios, or derivative works that may involve sensitive historical themes, you must seek and receive written approval from the developers.
 
